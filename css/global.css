@@ -1000,7 +1000,7 @@ h4.phone { color:#575F35; font-weight:bold; }
 	width:146px;	
 }
 .footer_logo {
-	background:url("../img/small_logo.png") no-repeat scroll left center transparent;
+	/*background:url("../img/small_logo.png") no-repeat scroll left center transparent;*/
 	display:block;
 	float:left;
 	height:48px;
